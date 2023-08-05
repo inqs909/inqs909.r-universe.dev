@@ -6,5 +6,13 @@
     {
         "package": "inqstools",
         "url": "https://github.com/inqs909/inqstools"
+    },
+    {
+        "package": "gradethis",
+        "url": "https://github.com/rstudio/gradethis"
+    },
+    {
+        "package": "learnrhash",
+        "url": "https://github.com/rundel/learnrhash"
     }
 ]
