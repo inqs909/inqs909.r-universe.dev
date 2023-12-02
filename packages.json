@@ -1,5 +1,9 @@
 [
     {
+        "package": "csucistats",
+        "url": "https://github.com/inqs909/csucistats"
+    },
+    {
         "package": "csustats",
         "url": "https://github.com/inqs909/csustats"
     },
